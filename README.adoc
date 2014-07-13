@@ -1,0 +1,7 @@
+# Usage
+
+```
+-javaagent:/path/to/dumping-javaagent-1.0-SNAPSHOT.jar=/tmp/dump?org.foo.filter
+```
+
+Note: filter is optional
